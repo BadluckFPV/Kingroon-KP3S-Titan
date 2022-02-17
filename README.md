@@ -1,5 +1,5 @@
 # Kingroon-KP3S-Titan
-Config printer Klipper
+Config version 3 printer Klipper pour Kingroon KP3S avec Tête Titan
 
 Ajout de macro
 Ajout du 3d touch
